@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ce4cd42.css",
+    "main.js": "/static/js/main.304d7b36.js",
+    "static/js/787.9568b9b0.chunk.js": "/static/js/787.9568b9b0.chunk.js",
+    "static/media/banner ().png": "/static/media/banner ().97a85b3685d77a58dd54.png",
+    "static/media/discountbg.jpg": "/static/media/discountbg.763b13cb260eb210ac19.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.4ce4cd42.css.map": "/static/css/main.4ce4cd42.css.map",
+    "main.304d7b36.js.map": "/static/js/main.304d7b36.js.map",
+    "787.9568b9b0.chunk.js.map": "/static/js/787.9568b9b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce4cd42.css",
+    "static/js/main.304d7b36.js"
+  ]
+}
